@@ -21,7 +21,7 @@ Setiap laporan punya **filter rentang tanggal sendiri**, plus tombol pintasan **
 | `imh_common.php` | Helper bersama (akses/session, filter tanggal, style, script AJAX) — dipakai oleh ketiga laporan, **bukan** file plugin sendiri |
 | `index_peminjam.php` | Laporan "10 Peminjam Tersering" |
 | `index_pengunjung.php` | Laporan "10 Pengunjung Tersering" |
-| `index_aktif.php` | Laporan "10 Pengunjung Teraktif" |
+| `index_aktif.php` | Laporan "10 Anggota Teraktif" |
 
 ## 🛠️ Instalasi
 
