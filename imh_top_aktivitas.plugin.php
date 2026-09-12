@@ -17,4 +17,4 @@ $plugin = \SLiMS\Plugins::getInstance();
 
 $plugin->registerMenu('reporting', '10 Peminjam Tersering', __DIR__ . '/index_peminjam.php');
 $plugin->registerMenu('reporting', '10 Pengunjung Tersering', __DIR__ . '/index_pengunjung.php');
-$plugin->registerMenu('reporting', '10 Pengunjung Teraktif', __DIR__ . '/index_aktif.php');
+$plugin->registerMenu('reporting', '10 Anggota Teraktif', __DIR__ . '/index_aktif.php');
