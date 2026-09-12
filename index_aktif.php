@@ -101,7 +101,7 @@ imh_render_style();
 <div class="menuBox imh-wrapper">
     <div class="menuBoxInner">
         <div class="per_title">
-            <h2><?php echo __('10 Pengunjung Teraktif'); ?></h2>
+            <h2><?php echo __('10 Anggota Teraktif'); ?></h2>
         </div>
 
         <div class="sub_section p-3">
